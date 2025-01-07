@@ -13,8 +13,11 @@ Search Functionality: Enter any city name to view its weather conditions instant
 <br>
 <p>
 HTML5: For the structure of the app.
+<br>
 CSS3: For styling and creating a responsive design.
+  <br>
 JavaScript (ES6): For dynamic updates and API integration.
+  <br>
 OpenWeatherMap API: To fetch live weather data.
 </p>
 <h4>🧑‍💻 How to Run Locally</h4>
